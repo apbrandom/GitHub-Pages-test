@@ -1,5 +1,4 @@
-
-![Picture](../../../../../Pictures/Wallpaper/1.png)
+![1](https://user-images.githubusercontent.com/34124143/211849429-9f8781f6-48d3-439f-998d-31c7eab8eb9f.png)
 
 Swift programming language
 ===
